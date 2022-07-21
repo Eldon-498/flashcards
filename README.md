@@ -1,6 +1,6 @@
-# To Run
+# To access production link, click here.
 
-Run `npm start` in the project root and the app will be available on port 3000.
+
 
 # State
 
